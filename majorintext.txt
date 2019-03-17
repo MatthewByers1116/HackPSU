@@ -1,0 +1,13 @@
+College of Agricultural Sciences,Agricultural; Physical Activity; Biology
+College of Arts and Architecture,Arts
+Smeal College of Business,Business
+Donald P. Bellisario College of Communications,Community
+College of Earth and Mineral Sciences,Geoscience; Chemistry
+College of Education,Education; Community
+College of Engineering,Engineering; Chemistry
+College of Health and Human Development,Health; Medical; Biology
+College of Information Sciences and Technology,Tech; Engineering
+College of the Liberal Arts,Community; Arts; Culture; Cultural
+College of Nursing,Medical
+Eberly College of Science,Tech; Math; Engineering
+Other;None

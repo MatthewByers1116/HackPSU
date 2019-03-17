@@ -1,0 +1,29 @@
+Chemical Engineering,"Tech, Engineering, Music, Hobbies, Chemistry","Asylum, Coffee club, AiChe, UPUA."
+Statistics,"Hobbies, Thon, Physical Activity",Eclipse
+Electrical Engineering,"Tech, Engineering, Hobbies","Tea club, fencing"
+Communication Arts and Sciences,"Tech, Music, Hobbies, Physical Activity","President of PSU Monty Python Society, Schreyer Consulting, ballroom dance"
+Film and Video,"Tech, Engineering, Music, Math, Hobbies, Sports","The Three Broomsticks, Monty Python Society and PSNtv"
+Mechanical Engineering,"Tech, Engineering, Music, Math, Hobbies, Physical Activity","Monty Python society, flow arts club, glee club, robotics club"
+Corporate Innovation and Entrepreneurship,"Greek, Hobbies, Physical Activity","SPA, Delta Phi Epsilon"
+Nursing,"Medical, Music, Hobbies, Sports, Physical Activity","SNAP, Global Medical Brigades, Club Quidditch, Asylum Music Club"
+Political Science,"Music, Cultural, Hobbies, Educational","Spanish, Asylum, Bee Keeping"
+Chemistry,"Tech, Music, Hobbies, Chemistry, Physical Activity","Asylum, Urban Explorers, SOMA"
+Hospitality Management,"Music, Hobbies, Physical Activity",Asylum
+Psychology,"Greek, Medical, Music, Cultural, Agricultural, Educational, Physical Activity",
+Film and Video,"Music, Cultural","PPGen, Asylum, SFO"
+Cybersecurity Analytics and Operations,"Tech, Music, Hobbies","Asylum, Girls Who Code, Paranormal Research Society (lol)"
+Civil Engineering,"Tech, Engineering, Music, Cultural, Thon, Sports, Physical Activity","Clown Nose Club, Pride of the Lions"
+Cybersecurity Analytics and Operations,"Tech, Music, Hobbies","Asylum, SRA, ESports"
+Sociology,"Music, Cultural, Hobbies, Thon",Asylum
+"Data Sciences, Statistical Modeling Data Sciences","Tech, Engineering, Music, Math, Hobbies","Asylum, standup, monarch, Nittany wits"
+Criminal Justice,"Cultural, Thon, Sports","Common ground, justice association"
+Physics,"Tech, Engineering, Math","Club swim, asylum, Polish club"
+Computer Engineering,"Engineering, Music, Hobbies, Sports, Physical Activity","Club Roller Hockey, Italian Club, Robotics"
+Communication,"Tech, Music, Hobbies, Physical Activity","Tea, asylumn"
+Theatre Studies,Hobbies,"UGC, Renaissance Faire, MTG"
+Biology,"Music, Cultural, Agricultural, Hobbies, Physical Activity","Boulevard, ServeState, No Refund Theatre, Student Farm Club, PSOC, German Club, Asylum"
+Architectural Engineering,"Engineering, Hobbies, Sports, Educational, Physical Activity","Blue and White Society, The Three Broomsticks (Harry Potter club), Monty Python Society, Student Society of Architectural Engineers, The wRECking crew (volleyball pep squad)"
+Physics,"Tech, Engineering, Music, Cultural, Math, Hobbies, Sports, Physical Activity","Club Cycling, PSOC, Asylum, Society of Physics Students, Society of Hispanic Professionals and Engineers"
+Economics,"Tech, Music, Hobbies, Thon, Sports, Physical Activity","Debate, Thon, EA"
+College of the Liberal Arts,Community;Tech; Arts,Esports Club
+College of Information Sciences and Technology,Tech;Tech;Education; Engineering,Math Club;Esports Club
